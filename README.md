@@ -37,8 +37,4 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
-# doldari-imergency
-
-돌다리 응급구조화면 만드는 곳
-=======
 >>>>>>> aeddc8d9eab0365c3b8be05e66dd533d9f686aa5
